@@ -1,6 +1,6 @@
 {
 	"name": "@app/server",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
 	"private": true,
@@ -8,7 +8,7 @@
 		"test": "echo testing server with version: $npm_package_version"
 	},
 	"dependencies": {
-		"@app/common": "1.0.0",
+		"@app/common": "^1.0.1",
 		"graphql-yoga": "^1.18.3"
 	},
 	"keywords": [],
